@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+
+	font-family: sans-serif;
+	margin-top: 40x;
+}
+#msg {
+	
+}
+
+
+#myform {
+	color: black;
+	padding: 10px 0px 10px 0px;
+	border-radius: 15px 15px 0px 0px;
+
+}
+
+ 
+
+#submit {
+	background-color: #3BAF9F;
+    display: block;
+    margin: 10px 0px 0px 35px;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid;
+    padding: 14px 110px;
+    cursor: pointer;
+}
+#submit:hover{
+	background-color: #5390F5;
+
+}
+ 
+
+.container {
+
+}
+
+ 
+
+.text-center {
+
+}
+
+ 
+
+.col-lg-4.m-auto {
+
+}
+
+ 
+
+.form-group {
+
+}
+
+ 
+
+.form-control {
+
+}

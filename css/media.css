@@ -1,0 +1,279 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.menu ul li a {
+    text-align: right;
+    padding: 8px 0 !important;
+}
+.btn-danger {
+    margin: 5px 57px;
+}
+/*header end*/
+
+/*banner start*/
+.banner_text {
+    padding-left: 75px;
+    margin-top: 30px;
+}
+.banner_text h1 {
+    font-size: 40px;
+}
+.banner_text h2 {
+    font-size: 50px;
+    padding: 0 93px;
+}
+.banner_text h3 {
+    font-size: 34px;
+}
+.banner_text p {
+    font-size: 16px;
+    margin: 18px 0 25px;
+}
+.count {
+    margin-left: 6px;
+}
+
+.countd {
+    padding-top: 25px;
+    margin: 5px 3px;
+}
+
+.countd span {
+    font-size: 20px;
+    margin-top: 14px;
+}
+/*banner end*/
+
+/*upcomming_event start*/
+.title h1 {
+    font-size: 35px;
+}
+
+.title h2 {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.paragrahp {
+    margin-top: 40px;
+}
+
+.first_photof {
+    margin-left: 62px;
+    margin-top: -45px;
+}
+.secon_photof{
+    margin-left: 62px;
+    margin-top: 20px;
+}
+.butt {
+    margin: 20px auto;
+}
+/*upcomming_event end*/
+/*slider start*/
+.text {
+    padding-bottom: 0px;
+}
+
+/*slider end*/
+/*wedding txt start*/
+.message {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.message h1 {
+    text-align: center;
+}
+.message p {
+    text-align: center;
+}
+.name {
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.name h1 {
+    font-size: 42px;
+    text-align: center;
+}
+.name h2 {
+    font-size: 37px;
+}
+.name span {
+    font-size: 80px;
+}
+.line {
+    padding-top: 0px;
+     padding-left: 0px;
+}
+.c_hr {
+     border-left: none; 
+     height: none; 
+     float: none; 
+}
+/*wedding txt end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menu ul li a {
+    text-align: right;
+    padding: 8px 0 !important;
+}
+.btn-danger {
+    margin: 5px 165px;
+}
+/*header end*/
+
+/*banner start*/
+.banner_text {
+    /* border: 1px solid white; */
+    padding-left: 210px;
+    margin-top: 50px;
+}
+.count {
+    margin-left: 52px;
+}
+.countd {
+    margin: 5px 15px;
+}
+/*banner end*/
+/*upcomming_event start*/
+.first_photof {
+    margin-left: 160px;
+    margin-top: -35px;
+}
+.secon_photof{
+    margin-left: 160px;
+    margin-top: 35px;
+}
+/*upcomming_event end*/
+/*slider start*/
+.text {
+    padding-bottom: 0px;
+}
+
+/*slider end*/
+/*wedding txt start*/
+.message {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.message h1 {
+    text-align: center;
+}
+.message p {
+    text-align: center;
+}
+.name {
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.name h1 {
+    font-size: 42px;
+    text-align: center;
+}
+.name h2 {
+    font-size: 37px;
+    text-align: center;
+}
+.name span {
+    font-size: 80px;
+}
+.line {
+    padding-top: 0px;
+     padding-left: 0px;
+}
+.c_hr {
+     border-left: none; 
+     height: none; 
+     float: none; 
+}
+/*wedding txt end*/
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a {
+    text-align: right;
+    padding: 8px 0 !important;
+}
+/*header end*/
+
+/*banner start*/
+.banner_text {
+    padding-left: 400px;
+}
+.count {
+    margin-left: 100px;
+}
+.countd {
+    margin: 10px 25px;
+}
+/*banner end*/
+/*wedding txt start*/
+.message {
+    padding-top: 90px;
+    padding-bottom: 80px;
+}
+.message h1 {
+    font-size: 65px;
+}
+.name {
+    padding-top: 55px;
+}
+.name h1 {
+    font-size: 40px;
+}
+.name span {
+    font-size: 75px;
+}
+.name h2 {
+    font-size: 36px;
+}
+.line {
+    padding-top: 50px;
+    padding-left: 56px;
+}
+.c_hr {
+    height: 245px;
+}
+/*wedding txt end*/
+
+.cid-caption {
+    margin-top: -196px;
+}
+.cid-caption h1 {
+    font-size: 28px;
+}
+.cid-caption h2 {
+    font-size: 20px;
+}
+.cid-para {
+    margin-top: 19px;
+    padding-bottom: 50px;
+}
+.cid-para p {
+    font-size: 14px;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*banner start*/
+.banner_text {
+    padding-left: 600px;
+}
+.count {
+    margin-left: 180px;
+}
+/*banner end*/
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}
+	
